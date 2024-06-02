@@ -13,7 +13,7 @@ Uygulamayı açın.
 Film türü, yönetmen, oyuncu, imdb puanı gibi tercihlerinizi girin veya resim yükleyin.
 "Tavsiye Al" butonuna tıklayın.
 Uygulamanın size sunduğu film önerilerini inceleyin.
-Github Deposu: (https://github.com/ARAGORN1453)
+Github Deposu: (https://github.com/KaanSezen1923)
 
 Kullanım Örneği:
 
