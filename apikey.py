@@ -1,3 +1,3 @@
-google_gemini_api_key="AIzaSyAI5wlLJbgvueXDidOEnkkxjSR4Ubhvlss"
-api_key = 'd4d899f4680d8dfffa18972a0ecaa728'
-youtube_api_key="AIzaSyA4ksjxiYKwmwncuqFz6Lq1EhfzRxbFPUs"
+google_gemini_api_key="YOUR API KEY HERE"
+api_key = 'YOUR API KEY HERE'
+youtube_api_key="YOUR API KEY HERE"
